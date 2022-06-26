@@ -6,3 +6,17 @@
 .logos__redes{
     width: 35px;
 }
+
+.img__envios{
+    width: 500px;
+}
+
+.img__lineas{
+    width: 400px;
+    transition: all 2s;
+}
+
+.img__lineas:hover{
+    border: 4px solid black;
+    transform: scale(1.3);
+}

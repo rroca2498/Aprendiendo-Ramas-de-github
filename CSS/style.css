@@ -20,3 +20,29 @@
     border: 4px solid black;
     transform: scale(1.3);
 }
+
+.caja__texto{
+    border: 1px solid black;
+}
+
+
+.caja__texto:hover{
+    background-color: aqua;
+    border: 6px black solid;
+}
+
+.logos__RR{
+    width: 500px;
+}
+
+.logo__RR__viejo{
+    transition: all 3s;
+}
+.logo__RR__viejo:hover{
+    transform: scale(2);
+    opacity: 0;
+}
+
+.letra__negra{
+    color: black;
+}

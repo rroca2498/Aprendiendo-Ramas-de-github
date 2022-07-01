@@ -46,3 +46,6 @@
 .letra__negra{
     color: black;
 }
+.fondo__blanco{
+    background-color: white !important;
+}
